@@ -1,8 +1,5 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: Alper Karadag, Ziya Erkoc
-// 
 // Create Date: 03.12.2018 19:22:49
 // Design Name: 
 // Module Name: pipes
